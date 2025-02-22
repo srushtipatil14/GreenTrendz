@@ -1,0 +1,3 @@
+backend/node_modules/
+final_src/node_modules/.cache/
+.git/objects/pack/
